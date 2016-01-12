@@ -7,9 +7,9 @@
 ###########################################################
 # => Variables
 ###########################################################
-dir = ~/dotfiles # dotfiles directory
-olddir = ~/dotfiles_old # old ditfiles directory
-files = ".vimrc .tmux.conf" # list of files/folder to symlink in homedir
+dir=~/dotfiles # dotfiles directory
+olddir=~/dotfiles_old # old ditfiles directory
+files=".vimrc .tmux.conf" # list of files/folder to symlink in homedir
 ###########################################################
 
 # create dotfiles_old in homedir
